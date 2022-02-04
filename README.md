@@ -15,3 +15,5 @@ SO THAT my users can play the drums right from the internet with full control.
 
 ## Drum Kit Page
 ![Drum Kit Page](./assets/.png)
+
+### Click [here](https://nevan-dsouza.github.io/drum-kit/)! to view the page
